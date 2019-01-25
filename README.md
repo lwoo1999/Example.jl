@@ -6,6 +6,6 @@ Example Julia package repo.
 [![](https://img.shields.io/badge/docs-dev-blue.svg)](https://JuliaLang.github.io/Example.jl/dev) -->
 
 Linux and macOS: [![Build Status](https://travis-ci.org/lwoo1999/Example.jl.svg?branch=master)](https://travis-ci.org/lwoo1999/Example.jl)
-<!-- 
-[![Coverage Status](https://coveralls.io/repos/JuliaLang/Example.jl/badge.svg?branch=master)](https://coveralls.io/r/JuliaLang/Example.jl?branch=master)
-[![codecov.io](http://codecov.io/github/JuliaLang/Example.jl/coverage.svg?branch=master)](http://codecov.io/github/JuliaLang/Example.jl?branch=master) -->
+
+<!-- [![Coverage Status](https://coveralls.io/repos/JuliaLang/Example.jl/badge.svg?branch=master)](https://coveralls.io/r/JuliaLang/Example.jl?branch=master) -->
+[![codecov.io](http://codecov.io/github/lwoo1999/Example.jl/coverage.svg?branch=master)](http://codecov.io/github/lwoo1999/Example.jl?branch=master)
